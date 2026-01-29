@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi 👋 I'm Ayşe Ege
 
-<!--
-**aysegeakar/aysegeakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Background in Science Education & Biotechnology  
+💻 Transitioning into Health & Data Software Development  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Python
+- SQL
+- Pandas
+- Data Analysis
+- Basic REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Featured Projects
+- **Lab Results Analysis Tool**
+  - Python + SQL based analysis of laboratory test results
+- **Patient Data API (Demo)**
+  - Simple REST API for patient & test management
+- **Bioinformatics Mini Tools**
+  - DNA sequence analysis scripts
+
+> All data used in projects are synthetic and for demonstration purposes only.
+
+### 📫 Contact
+- LinkedIn: http://linkedin.com/in/ayşe-ege-akar-msc-463201185
+- https://github.com/aysegeakar
