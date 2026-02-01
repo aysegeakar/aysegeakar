@@ -22,4 +22,4 @@
 
 ### 📫 Contact
 - LinkedIn: http://linkedin.com/in/ayşe-ege-akar-msc-463201185
-- https://github.com/aysegeakar
+- Github: https://github.com/aysegeakar
